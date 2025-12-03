@@ -26,17 +26,16 @@
 
 ## ⭐ Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesameguy12&repo=vue-chatApp&theme=tokyonight)](https://github.com/thesameguy12/vue-chatApp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesameguy12&repo=E-Registration&theme=tokyonight)](https://github.com/thesameguy12/E-Registration)
+- 💬 [Vue Chat App](https://github.com/thesameguy12/vue-chatApp)
+- 🪪 [E-Registration](https://github.com/thesameguy12/E-Registration)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thesameguy12&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesameguy12&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thesameguy12&show_icons=true&theme=tokyonight" alt=" "/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesameguy12&layout=compact&theme=tokyonight" alt=" "/>
   <img height="160" src="https://streak-stats.demolab.com?user=thesameguy12&theme=tokyonight" />
 </p>
 
