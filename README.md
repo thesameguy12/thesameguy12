@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Emir 👋
 
-<!--
-**thesameguy12/thesameguy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🎓 Computer science student  
+- 🛠️ Building full-stack apps (Vue / React • Express / Spring Boot • MongoDB / MySQL)  
+- 🌱 Currently exploring distributed systems & secure messaging  
+- 📍 Based in Maribor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Tech Stack
+
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular" />
+
+**Backend:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,cpp" />
+
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+
+---
+
+## ⭐ Favorite Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesameguy12&repo=vue-chatApp&theme=tokyonight)](https://github.com/thesameguy12/vue-chatApp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thesameguy12&repo=E-Registration&theme=tokyonight)](https://github.com/thesameguy12/E-Registration)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thesameguy12&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesameguy12&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=thesameguy12&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect With Me
+<a href="https://www.instagram.com/the_sameguy_/"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
+<a href="mailto:emirhadzic2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
+
+
