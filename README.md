@@ -26,6 +26,7 @@
 
 ## ⭐ Favorite Projects
 
+- 🌎 [Language learning app](https://github.com/thesameguy12/language-learn-app.git)
 - 💬 [Vue Chat App](https://github.com/thesameguy12/vue-chatApp)
 - 🪪 [E-Registration](https://github.com/thesameguy12/E-Registration)
 
