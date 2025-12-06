@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 **Tools:**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,firebase" />
 
 ---
 
